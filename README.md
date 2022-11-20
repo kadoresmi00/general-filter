@@ -10,8 +10,8 @@ A modules to make your work easier. A helpful resource that includes Caps Filter
 npm i @kadoresmi00/general-filter
 ```
 
-<a href="https://npmjs.com/package/general-filter">![GitHub package.json version](https://img.shields.io/github/package-json/v/kadoresmi00/general-filter?style=for-the-badge)</a>
-<a href="https://npmjs.com/package/general-filter">![npm](https://img.shields.io/npm/dw/general-filter?style=for-the-badge)</a>
+<a href="https://www.npmjs.com/package/@kadoresmi00/general-filter">![GitHub package.json version](https://img.shields.io/github/package-json/v/kadoresmi00/general-filter?style=for-the-badge)</a>
+<a href="https://www.npmjs.com/package/@kadoresmi00/general-filter">![npm](https://img.shields.io/npm/dw/general-filter?style=for-the-badge)</a>
 
 **Features:**
 
@@ -89,4 +89,4 @@ if (kado.isCheck(message)) {
 ```
 ## NPM
 **Link**
-- [Click](https://www.npmjs.com/package/general-filter)
+- [Click](https://www.npmjs.com/package/@kadoresmi00/general-filter)
