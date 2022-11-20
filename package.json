@@ -1,0 +1,26 @@
+{
+  "name": "@kadoresmi00/general-filter",
+  "version": "1.0.0",
+  "description": "A modules to make your work easier. A helpful resource that includes Caps Filter, Link Filter, Swear Filter, Word Filter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "general-filter",
+    "link",
+    "filter",
+    "word",
+    "check",
+    "word",
+    "filter",
+    "caps",
+    "filter"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kadoresmi00/[DepoIsmin].git"
+  },
+  "author": "kadoresmi00",
+  "license": "ISC"
+}
